@@ -3,6 +3,7 @@
 
 This project automates the creation of a **Document Ageing Report** from a daily `export.xls` file provided by the client.  
 Instead of manually preparing reports in Excel (which takes ~30 minutes daily), this script generates a **Final Report** automatically in just a few seconds.
+![Automation_GIF_compressed_final](https://github.com/user-attachments/assets/59efc8b7-cf4a-436c-9cb7-bfd91b651423)
 
 ---
 
